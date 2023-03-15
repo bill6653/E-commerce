@@ -23,10 +23,10 @@ no tests were written for this project.
 Currently not accepting contribution to this repo.
 
 ## Mock-Up
-(![Team-Profile-Generator](./assets/images/))
+(![Team-Profile-Generator](./assets/images/mockup.jpg))
 
 ## Video
-
+https://drive.google.com/file/d/1AI0DQRwifABx8YIMV9XECFBZVOaRYzWA/view?usp=sharing
 
 ## License
 Please see https://mit-license.org/ to get info about this license
